@@ -1,0 +1,9 @@
+name: "Flutter Deployment"
+description: "This action build and release a Flutter app. [Android, Ios, Web ]"
+author: "jeanluc.kabulu@gmail.com"
+
+
+branding:
+  icon: "pakage"
+  color: "bleu"
+
